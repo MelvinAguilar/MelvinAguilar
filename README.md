@@ -1,9 +1,9 @@
 <!-- Banner-->
 
-![Banner](https://user-images.githubusercontent.com/90595158/206069128-50614de1-6ac0-40ac-9b0c-395281c1172d.png)
+![Black Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90595158/211714223-88d74b88-203f-4682-a9e3-f265c82cccaa.png)
 
 <p align="center">
-I'm a 2nd-year student at José Simeón Cañas Central American University. My favorite things include learning about technology 💻, playing video games 🎮, and eating pizza 🍕. I look forward to learning new skills and adding them to my list.  
+I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
 
 ##
@@ -12,7 +12,14 @@ I'm a 2nd-year student at José Simeón Cañas Central American University. My f
 <!---
 - Web illustrations by Storyset ( https://storyset.com/web )
 --->
-<img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+
+
+<!---
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+--->
+
+
 
 <br>
 
@@ -163,11 +170,10 @@ In construction: &nbsp; [![Linkedin: Melvin Aguilar](https://img.shields.io/badg
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MelvinAguilar&show_icons=true&theme=radical&count_private=true" alt="MelvinAguilar" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinAguilar&layout=compact&theme=radical" alt="MelvinAguilar" height="165">
 </p>
-</details>
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=MelvinAguilar.MelvinAguilar">
 <div align="right">
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MelvinAguilar.MelvinAguilar)
+
 
 </div>
 
