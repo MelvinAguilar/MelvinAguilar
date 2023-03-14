@@ -1,5 +1,7 @@
 <!-- Banner 20232A -->
-![Banner](https://user-images.githubusercontent.com/90595158/211714223-88d74b88-203f-4682-a9e3-f265c82cccaa.png)
+![Banner-dark-mode](https://user-images.githubusercontent.com/90595158/224519176-25966d34-9593-4f48-8216-9d9ba80eb586.png#gh-dark-mode-only)
+![Banner-light-mode-test](https://user-images.githubusercontent.com/90595158/221481850-84df7f4c-2193-445d-9aba-d4eee0be7f5c.png#gh-light-mode-only)
+
 
 <p align="center">
 I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
@@ -10,14 +12,17 @@ I'm a software engineering student with a passion for web programming. My goal i
 <br>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
+
 
 <br>
 
 
+
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
-- 🌱 I’m currently learning **React and Node.js**.
+- 🌱 I’m currently learning **Kotlin**.
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/MelvinAguilar)!.
 
@@ -27,17 +32,31 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 - 🤝 I’m looking for help in learning about **Accessible Websites**.
 
-- 👯 I’m looking to collaborate on **Developing new open-source projects**.
+- 👯 I’m looking to collaborate on **developing new open-source projects**.
 
 
 <br>
 <br>
 
-## Goals
+## 🏆 Goals
 
-- 📖 Improve my skills in **JavaScript**.
-- 📖 Learn more about **React** and **Node.js**.
-- 📖 Create my own portfolio website.
+- 📖 Learn the basics of **Kotlin** programming language
+- 📱 Build a simple mobile app using **Kotlin** and **Android Studio**.
+- 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
+- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
+- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+
+## 🎯 Future Goals
+
+- 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
+- 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
+- 🤖 Build a project that demonstrates my knowledge of **AI** and **machine learning**.
+
+## 📈 Achievements
+
+- 🎉 I have successfully completed over 20 projects on Frontend Mentor and shared my code with others.
+- 🤝 I have provided feedback on projects on Frontend Mentor website.
+
 
 #
 
