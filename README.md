@@ -4,7 +4,7 @@
 
 
 <p align="center">
-I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+👋 Hey there! I'm a software engineering student with a burning passion for web programming. 🕸️ My mission? Crafting scalable and user-friendly web apps that captivate users at first click. 🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.
 </p>
 
 ##
@@ -15,38 +15,29 @@ I'm a software engineering student with a passion for web programming. My goal i
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
-
-<br>
-
-
-
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
-- 🌱 I’m currently learning **Kotlin**.
+- 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **C++**.
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/MelvinAguilar)!.
 
 - 📫 How to reach me: **melvinaguilarhdz@gmail.com**.
 
-- 💬 Ask me about **HTML and CSS**.
-
-- 🤝 I’m looking for help in learning about **Accessible Websites**.
-
 - 👯 I’m looking to collaborate on **developing new open-source projects**.
 
+- 🌎 Fluent in **Español** 📖, and polishing up my **English** skills every day 🌟
+
 
 <br>
 <br>
 
-## 🏆 Goals
+## 🏆 Goals:
 
-- 📖 Learn the basics of **Kotlin** programming language
-- 📱 Build a simple mobile app using **Kotlin** and **Android Studio**.
 - 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
 
-## 🎯 Future Goals
+## 🚀 Future Endeavors:
 
 - 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
 - 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
@@ -56,6 +47,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 - 🎉 I have successfully completed over 20 projects on Frontend Mentor and shared my code with others.
 - 🤝 I have provided feedback on projects on Frontend Mentor website.
+- 📱 I launched a small app on the PlayStore to get a taste of the mobile app development world.
 
 
 #
@@ -64,15 +56,25 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 <h2 align="center">📫 Connect with me</h2>
 
+<p align="center">
+Looking to convert a Figma design into a web reality? Feel free to contact me. I'm here to make your vision come alive, and I promise to bring a friendly and charismatic touch to our collaboration. Web projects are also warmly welcomed.
+</p>
+
+<p align="center">
+Let's turn your ideas into reality!
+</p>
+<br />
+
 <div align = "center">
     
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:melvinaguilarhdz@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/MelvinAguilar)&nbsp;
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/melvinhdev)](https://codepen.io/melvinhdev)
+[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvinaguilar)](https://www.linkedin.com/in/melvinaguilar)
 <br>
 [![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/melvinaguilar)](https://linktr.ee/melvinaguilar)&nbsp;
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/melvinaguilar)](https://www.freecodecamp.org/melvinaguilar)&nbsp;
-[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/melvin-aguilar-dev)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/melvinhdev)](https://codepen.io/melvinhdev)
+
   
 </div>
 
@@ -102,14 +104,12 @@ I'm a software engineering student with a passion for web programming. My goal i
 ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)&nbsp;
 </details>
 
 <details open>
 <summary><b>🧰 Backend</b></summary>
 <br>
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
